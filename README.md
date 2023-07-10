@@ -65,7 +65,7 @@ I build this Modal-popup.app with React.js, CSS and bundling with Vite, it's hel
 - Mobile-first approach
 - Flex Layout
 
-## Acknowledgments
+## Instructions
 
 When using `vite` in order to build this solution
 
